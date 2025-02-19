@@ -1,4 +1,4 @@
-const socket = io();  
+const socket = io("https://airdrop-clone-t4v1.onrender.com");  
 let peerConnection;
 let dataChannel;
 
